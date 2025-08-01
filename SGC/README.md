@@ -29,7 +29,7 @@ Projeto completo com frontend em Vue 3 e backend em Laravel 10, implementando um
 ### 🔧 Clonando o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/001986josevaldo/SGC.git
 cd SGC
 ```
 
@@ -49,6 +49,10 @@ php artisan key:generate
 # DB_DATABASE=contatos_db
 # DB_USERNAME=root
 # DB_PASSWORD=
+
+Crie o banco no MySQL:
+
+CREATE DATABASE contatos_db;
 
 # Rodar as migrações
 php artisan migrate
@@ -94,4 +98,5 @@ npm run dev
 
 Desenvolvido por **Josevaldo Moreira**  
 GitHub: [@001986josevaldo](https://github.com/001986josevaldo)
+
 email: josevaldomr@gmnail.com / josevaldo.m@unemat.br
