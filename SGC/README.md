@@ -99,4 +99,4 @@ npm run dev
 Desenvolvido por **Josevaldo Moreira**  
 GitHub: [@001986josevaldo](https://github.com/001986josevaldo)
 
-email: josevaldomr@gmnail.com / josevaldo.m@unemat.br
+email: josevaldomr@gmail.com / josevaldo.m@unemat.br
